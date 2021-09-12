@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zzcjack08.github.io/MyBlog/</id>
     <title>ZZCJack拙</title>
-    <updated>2021-09-12T11:18:43.762Z</updated>
+    <updated>2021-09-12T12:05:53.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zzcjack08.github.io/MyBlog/"/>
     <link rel="self" href="https://zzcjack08.github.io/MyBlog/atom.xml"/>
@@ -11,4 +11,41 @@
     <logo>https://zzcjack08.github.io/MyBlog/images/avatar.png</logo>
     <icon>https://zzcjack08.github.io/MyBlog/favicon.ico</icon>
     <rights>All rights reserved 2021, ZZCJack拙</rights>
+    <entry>
+        <title type="html"><![CDATA[图片文字识别——PearOCR]]></title>
+        <id>https://zzcjack08.github.io/MyBlog/post/tu-pian-wen-zi-shi-bie-pearocr/</id>
+        <link href="https://zzcjack08.github.io/MyBlog/post/tu-pian-wen-zi-shi-bie-pearocr/">
+        </link>
+        <updated>2021-09-12T12:03:18.000Z</updated>
+        <content type="html"><![CDATA[<p>很多时候大家都会用到对图片中文字识别的软件，但大多数都是收费或者免费但有次数限制或广告，用起来都非常的麻烦。今天给大家推荐一个文字识别工具——PearORC，它完全免费，没有广告也没有次数限制</p>
+<p>网站链接：<a href="https://pearocr.com/">PearOCR 在线图片转文字，免费OCR</a></p>
+<p>如果是Google或者edge浏览器，还可以将其离线到本地<br>
+<img src="https://zzcjack08.github.io/MyBlog//post-images/1631448241306.png" alt="" loading="lazy"><br>
+点那个就可以将其离线</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多线程下载NDM（NeatDownloadManager）]]></title>
+        <id>https://zzcjack08.github.io/MyBlog/post/duo-xian-cheng-xia-zai-ndmneatdownloadmanager/</id>
+        <link href="https://zzcjack08.github.io/MyBlog/post/duo-xian-cheng-xia-zai-ndmneatdownloadmanager/">
+        </link>
+        <updated>2021-09-12T12:01:03.000Z</updated>
+        <content type="html"><![CDATA[<p>哈喽，说起下载软件，国内最知名的是迅雷，而国际上最知名的是IDM，但是他终身授权要200元，所以我找来了一个替代品，NDF。也是和IDM有一样的功能——多线程下载，但是它完全免费。</p>
+<p>NDM的下载速度甚至于比IDM还有快一点</p>
+<p>NDM支持Mac OS 和 Windows操作系统</p>
+<p>下载链接：<a href="https://www.neatdownloadmanager.com/index.php/en/">Neat Download Manager for Mac and Windows </a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Office全能管理工具——Office Tool Plus]]></title>
+        <id>https://zzcjack08.github.io/MyBlog/post/office-quan-neng-guan-li-gong-ju-office-tool-plus/</id>
+        <link href="https://zzcjack08.github.io/MyBlog/post/office-quan-neng-guan-li-gong-ju-office-tool-plus/">
+        </link>
+        <updated>2021-09-12T11:55:17.000Z</updated>
+        <content type="html"><![CDATA[<p>当大家重装完系统之后，需要下载一些办公类的软件，比如office。但是office官网下载实属麻烦，而且版本也非常难选择，而第三方人员就开发了Office Tool Plus这个软件，在这里可以为office安装许可证，激活，部署。而且他的版本非常非常的全面，但它的体积却非常的小。</p>
+<p>最重要的是安全且免费！！！</p>
+<p>链接：<a href="https://otp.landian.vip/zh-cn/">Office Tool Plus 官方网站 - 一键部署 Office</a></p>
+<p>有的时候下载解压后的exe文件无法使用，运行 Run me 即可</p>
+]]></content>
+    </entry>
 </feed>
