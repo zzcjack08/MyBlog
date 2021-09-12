@@ -1,10 +1,12 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
     <meta charset="utf-8" />
 <meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<title>ZZCJack拙</title>
+<title>搜索 | ZZCJack拙</title>
 
 <link rel="shortcut icon" href="https://zzcjack08.github.io/MyBlog//favicon.ico?v=1631445501604">
 
@@ -33,10 +35,20 @@
 <!--<script src="media/scripts/index.js"></script>-->
 
 
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.0/dist/fuse.basic.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ejs@3.1.3/ejs.min.js"></script>
+    <script src="https://zzcjack08.github.io/MyBlog//media/gridea-search/gridea-search.js"></script>
+    <script src="https://zzcjack08.github.io/MyBlog//media/gridea-search/result-template.ejs" type="text/ejs"></script>
 </head>
+
 <body>
-<div class="main gt-bg-theme-color-first">
-    <div class="main-content">
+    <style>
+        .searched-keyword {
+            background-color: yellow;
+            color: red;
+        }
+    </style>
+    <div class="main gt-bg-theme-color-first">
         <nav class="navbar navbar-expand-lg">
     <div class="navbar-brand">
         <img class="user-avatar" src="/images/avatar.png" alt="头像">
@@ -96,19 +108,16 @@
         }
     }
 </script>
-
-        <div class="post-list-container">
-    <div class="post-inner">
-        
-    </div>
-</div>
-
-        <div class="pagination-container">
-    
-    
-</div>
-
-
+        <div id="gridea-search-result" data-update="1631445501604">
+            <div class="searching" style="font-size: 18px; margin-top: 50px;">
+                <i class="fa fa-sync-alt fa-spin"></i>&nbsp;&nbsp;搜索中......
+                <br><br>
+                <span style="font-size: 65%; color: #aaa">第一次搜索可能需要耗费较长时间构建索引，请耐心等待...</span>
+            </div>
+            <div class="no-result" style="display:none; font-size: 20px; margin-top: 50px;">
+                <i class="fa fa-exclamation-triangle"></i>&nbsp;&nbsp;未搜索到相关文章，请更换关键词
+            </div>
+        </div>
         <div class="site-footer gt-c-content-color-first">
     <div class="slogan gt-c-content-color-first">ZZCJack08的个人网站
 分享各种正版限免软件</div>
@@ -141,6 +150,6 @@
 </script>
 
     </div>
-</div>
 </body>
+
 </html>
