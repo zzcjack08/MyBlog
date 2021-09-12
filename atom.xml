@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zzcjack08.github.io/MyBlog/</id>
-    <title>Gridea</title>
-    <updated>2021-09-12T10:45:40.280Z</updated>
+    <title>zzcjack拙</title>
+    <updated>2021-09-12T10:49:09.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zzcjack08.github.io/MyBlog/"/>
     <link rel="self" href="https://zzcjack08.github.io/MyBlog/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>zzcjack08的个人网站</subtitle>
     <logo>https://zzcjack08.github.io/MyBlog/images/avatar.png</logo>
     <icon>https://zzcjack08.github.io/MyBlog/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, zzcjack拙</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zzcjack08.github.io/MyBlog/post/hello-gridea/</id>
