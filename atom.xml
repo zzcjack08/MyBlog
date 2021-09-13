@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zzcjack08.github.io/MyBlog/</id>
     <title>ZZCJack拙</title>
-    <updated>2021-09-12T12:09:14.136Z</updated>
+    <updated>2021-09-13T13:01:56.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zzcjack08.github.io/MyBlog/"/>
     <link rel="self" href="https://zzcjack08.github.io/MyBlog/atom.xml"/>
@@ -11,6 +11,29 @@
     <logo>https://zzcjack08.github.io/MyBlog/images/avatar.png</logo>
     <icon>https://zzcjack08.github.io/MyBlog/favicon.ico</icon>
     <rights>All rights reserved 2021, ZZCJack拙</rights>
+    <entry>
+        <title type="html"><![CDATA[全能的Windows功能管理器——Windows超级管理器]]></title>
+        <id>https://zzcjack08.github.io/MyBlog/post/quan-neng-de-windows-gong-neng-guan-li-qi-windows-chao-ji-guan-li-qi/</id>
+        <link href="https://zzcjack08.github.io/MyBlog/post/quan-neng-de-windows-gong-neng-guan-li-qi-windows-chao-ji-guan-li-qi/">
+        </link>
+        <updated>2021-09-13T12:52:29.000Z</updated>
+        <content type="html"><![CDATA[<p>又是一个Windows管理器，它的功能更偏近于我们日常的使用需求。<br>
+包括功能清理  磁盘测试，硬件信息查看 。。。。。<br>
+非常的强大，不要钱不要钱！！！而且作者也在不停的更新，而且完全绿色。本人也在使用。<br>
+<a href="https://www.collithel.com/windows_super_manager/">科利特尔Collithel - Windows超级管理器系列</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全能Windows管理器——Dism++]]></title>
+        <id>https://zzcjack08.github.io/MyBlog/post/quan-neng-windows-guan-li-qi-dism/</id>
+        <link href="https://zzcjack08.github.io/MyBlog/post/quan-neng-windows-guan-li-qi-dism/">
+        </link>
+        <updated>2021-09-13T12:31:46.000Z</updated>
+        <content type="html"><![CDATA[<p>大家有没有因为管理Windows系统而费劲脑汁，CMD.....这些东西都非常麻烦，一重装系统一切玩完。</p>
+<p>Dism++能帮助你对Windows系统进行超细至的管理，管理Windows系统可谓轻而易举。<br>
+不多说上链接：https://www.chuyu.me/zh-Hans/</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[图片文字识别——PearOCR]]></title>
         <id>https://zzcjack08.github.io/MyBlog/post/tu-pian-wen-zi-shi-bie-pearocr/</id>
